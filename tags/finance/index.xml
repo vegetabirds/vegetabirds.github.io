@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Finance on Tea Shop of the Mind</title>
-    <link>http://example.org/tags/finance/</link>
+    <link>http://vegetabirds.github.io/tags/finance/</link>
     <description>Recent content in Finance on Tea Shop of the Mind</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 26 Apr 2020 14:08:05 -0700</lastBuildDate>
     
-	<atom:link href="http://example.org/tags/finance/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://vegetabirds.github.io/tags/finance/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>It was a super contango, amigo!</title>
-      <link>http://example.org/posts/it-was-a-super-contango-amigo/</link>
+      <link>http://vegetabirds.github.io/posts/it-was-a-super-contango-amigo/</link>
       <pubDate>Sun, 26 Apr 2020 14:08:05 -0700</pubDate>
       
-      <guid>http://example.org/posts/it-was-a-super-contango-amigo/</guid>
+      <guid>http://vegetabirds.github.io/posts/it-was-a-super-contango-amigo/</guid>
       <description>&lt;h1 id=&#34;forward&#34;&gt;Forward&lt;/h1&gt;
 &lt;p&gt;I am writing to comb through and summarize my understanding of the oil price drop and what I make out of it. &amp;mdash;&amp;mdash; a student of the market.&lt;/p&gt;</description>
     </item>
